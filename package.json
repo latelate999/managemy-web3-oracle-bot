@@ -1,0 +1,36 @@
+{
+  "name": "managemy-web3-oracle-bot",
+  "version": "1.0.0",
+  "description": "Integrate Web3 oracles with bots for automated data retrieval and analysis, enhancing decision-making processes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/latelate999/managemy-web3-oracle-bot"
+  },
+  "author": "latelate999",
+  "license": "MIT",
+  "dependencies": {
+    "managemy-web3-oracle": "1.0.0",
+    "managemy-web3-oracle-bot": "1.0.0",
+    "firebase": "1.0.0",
+    "pg": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "axios": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "redux": "1.0.0",
+    "sequelize": "1.0.0",
+    "multer": "1.0.0",
+    "react-redux": "1.0.0",
+    "moment": "1.0.0",
+    "mysql": "1.0.0",
+    "bluebird": "1.0.0",
+    "underscore": "1.0.0",
+    "jest": "1.0.0",
+    "react-dom": "1.0.0",
+    "xml2js": "1.0.0",
+    "nodemon": "1.0.0"
+  }
+}
